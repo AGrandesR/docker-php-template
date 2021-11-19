@@ -14,4 +14,4 @@ That's it! You have your local PHP setup using Docker
 ## Recognition ✒️
 
 * **Andrés Villanueva** - *[Documentation template](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)* - [villanuevand](https://github.com/villanuevand)
-* **Mike Chernev** - *[Docker template](https://github.com/mikechernev/dockerised-php)* - [villanuevand](https://github.com/villanuevand)
+* **Mike Chernev** - *[Docker template](https://github.com/mikechernev/dockerised-php)* - [mikechernev](https://github.com/mikechernev/)
